@@ -1,0 +1,11 @@
+FOLDER STRUCTURE:
+realistic-bus-location-generator/
+├── README.md
+├── requirements.txt
+├── bus_location_generator.py
+├── data/
+│   └── bus_locations.json
+├── utils/
+│   └── movement.py
+└── logs/
+    └── simulation.log
